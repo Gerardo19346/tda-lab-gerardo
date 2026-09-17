@@ -1,4 +1,4 @@
-# TDA Lab de [Gerardo Piñero Farias
+# TDA Lab de Gerardo Piñero Farias
 
 **1ºBachiller · Curso 2026-2027**
 
