@@ -13,4 +13,4 @@ En mi tiempo libre me gusta jugar a la play, salir con los colegas y pasar tiemp
 también juego a futbol en el lada y llevo desde los 4 años jugando y me gusta bastante la verdad,
 voy algunos dias al gimnasio para pasar el tiempo y así hacer algo de ejercicio.
 ```
-![Futbol](capturas/red.png)
+![Aficiones](images.jpg)
