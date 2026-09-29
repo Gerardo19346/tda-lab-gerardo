@@ -14,3 +14,5 @@ también juego a futbol en el lada y llevo desde los 4 años jugando y me gusta 
 voy algunos dias al gimnasio para pasar el tiempo y así hacer algo de ejercicio.
 ```
 ![Aficiones](capturas/images.jpg)
+
+He estado investigando en internet y he encontrado esta web sobre fútbol https://eddwebster.com/
