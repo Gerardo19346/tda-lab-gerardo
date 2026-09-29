@@ -26,3 +26,7 @@ https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-leo-messi/?tex
 Leo Messi https://commons.wikimedia.org/wiki/Category:Lionel_Messi
 
 ![Leo Messi](capturas/Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg.webp)
+
+Leo Messi y ganó el Premio Princesa de Asturias 
+Lo premian por haber destacado en su carrera futbolística y por la ayuda de los niños necesitados y por las acciones solidarias para la educación 
+Lo elegí porque es un futbolista bastante conocido que ha tenido una gran historia en su carrera de jugador de futbol y me gusta bastante por todo lo que ha hecho en todo lo que lleva jugando y apoyando a los niños más necesitados a que tengas un mejor futuro.
