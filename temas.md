@@ -24,4 +24,4 @@ He estado investigando en internet y he encontrado esta web sobre fútbol https:
 Le dieron el premio princesa de Asturias porque ha destacado en su trayectoria deportiva y por las labores solidarias para que la educación sea mayor y ayudando a niños necesitados, tambien por su humildad, por su respeto y por su ejemplar comportamiento en su afición y y por su constancia  
 https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-leo-messi/?texto=acta
 Leo Messi https://commons.wikimedia.org/wiki/Category:Lionel_Messi
-![Leo Messi](capturas/images.jpg)
+![Leo Messi](capturas/Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg.webp)
