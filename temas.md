@@ -28,3 +28,26 @@ Le dieron el premio princesa de Asturias porque ha destacado en su trayectoria d
 Leo Messi y ganó el Premio Princesa de Asturias 
 Lo premian por haber destacado en su carrera futbolística y por la ayuda de los niños necesitados y por las acciones solidarias para la educación 
 Lo elegí porque es un futbolista bastante conocido que ha tenido una gran historia en su carrera de jugador de futbol y me gusta bastante por todo lo que ha hecho en todo lo que lleva jugando y apoyando a los niños más necesitados a que tengas un mejor futuro.
+
+
+### 16/10/2026 - AdaLovelace
+
+-¿Quien fue?
+Ada Lovelace fue una matemática británica considerada la primera programadora de la historia
+-¿Que hizo?
+El primer algoritmo matematico, El salto conceptual de la computación, La computación creativa y Estructuras lógicas pioneras.
+-Por qué se celebra su día y cuándo
+El Día de Ada Lovelace se celebra para visibilizar los logros de las mujeres en las áreas de STEM, ciencia, tecnología, ingeniería y matemáticas y para crear nuevos modelos a seguir que inspiren a más niñas y mujeres a adentrarse en estas disciplinas.Y Se celebra a nivel internacional el segundo martes de octubre
+
+
+
+
+
+
+
+
+
+
+
+
+
