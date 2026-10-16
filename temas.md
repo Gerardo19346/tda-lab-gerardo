@@ -34,12 +34,17 @@ Lo elegí porque es un futbolista bastante conocido que ha tenido una gran histo
 
 -¿Quien fue?
 Ada Lovelace fue una matemática británica considerada la primera programadora de la historia
+
 -¿Que hizo?
 El primer algoritmo matematico, El salto conceptual de la computación, La computación creativa y Estructuras lógicas pioneras.
+
 -Por qué se celebra su día y cuándo
 El Día de Ada Lovelace se celebra para visibilizar los logros de las mujeres en las áreas de STEM, ciencia, tecnología, ingeniería y matemáticas y para crear nuevos modelos a seguir que inspiren a más niñas y mujeres a adentrarse en estas disciplinas.Y Se celebra a nivel internacional el segundo martes de octubre
 
-{: width="300"} ![ADA LOVELACE](capturas/Ada_Lovelace.jpg)
+
+ ![ADA LOVELACE](capturas/Ada_Lovelace.jpg){: width="300"}
+
+Imagen: Sarah Carpenter, [Wikimedia Commons](https://commons.wikimedia.org/wiki/Ada_Lovelace#/media/File:Ada_Lovelace.jpg)
 
 
 
