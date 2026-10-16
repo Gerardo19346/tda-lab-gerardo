@@ -32,6 +32,8 @@ Lo elegí porque es un futbolista bastante conocido que ha tenido una gran histo
 ---
 
 
+### 16/10  ada
+
 ### 16/10/2026 - AdaLovelace
 
 ¿Quien fue?
