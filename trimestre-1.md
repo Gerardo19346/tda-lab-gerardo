@@ -9,7 +9,7 @@
 ---
 
 # Primer trimestre
-### 14/09 · Mi primer TDA Lab
+### 14/09 · Nos conocemos
 
 - **Aplicación:** Word más Bitmoji
 - **Entregado:** documento de word
@@ -18,10 +18,19 @@
 ---
 
 # Primer trimestre
-### 14/09 · Mi primer TDA Lab
+### 5/10 · Premios Princesa
 
-- **Aplicación:** Word más Bitmoji
-- **Entregado:** documento de word
-- **Qué hice:** crear mi avatar y un documento explicando como soy 
+- **Aplicación:** GitHub
+- **Entregado:** Enlace a mi GitHub
+- **Qué hice:** Entrada sobre los premios princesa de Asturias 
+
+---
+
+# Primer trimestre
+### 6/10 · Ada Lovcelace
+
+- **Aplicación:** GitHub
+- **Entregado:** Entrada a mi GitHub 
+- **Qué hice:** una entrada sobre Ada Lovelace
 
 ---
